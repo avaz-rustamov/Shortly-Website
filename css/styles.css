@@ -201,3 +201,137 @@ img {
   font-size: 20px;
   line-height: normal;
 }
+
+.site-stat {
+  display: flex;
+  justify-content: center;
+  background-color: #F2F2F2;
+  ;
+}
+
+.stat-heading {
+  display: flex;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 250px;
+  margin-bottom: 18px;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  letter-spacing: -1px;
+  color: #34313D;
+}
+
+.stat-content {
+  width: 540px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0;
+}
+
+.stat-heading {
+  width: 540px;
+}
+
+.site-stat-list {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-bottom: 160px;
+
+}
+
+.site-stat-list-item {
+  margin-right: 30px;
+}
+
+.stat-list {
+  width: 350px;
+  background-color: #fff;
+  margin-top: 100px;
+  padding: 32px;
+  border-radius: 5px;
+}
+
+.stat-img-item {
+  width: 88px;
+  height: 88px;
+  background-color: #3A3054;
+  border-radius: 50%;
+  padding: 24px;
+}
+
+.stat-img {
+
+  width: 44px;
+  height: 44px;
+}
+
+.site-stat-list-heading {
+  font-weight: bold;
+
+  font-size: 22px;
+  line-height: 33px;
+  color: #34313D;
+}
+
+.site-stat-list-content {
+
+}
+.stat-part-secound {
+  margin-top: 70px;
+}
+.stat-part-third {
+  margin-top: 130px;
+}
+
+.stat-bottom {
+  background-image: url(../img/stat-bottom.png);
+  padding-top: 57px;
+  padding-bottom: 57px;
+  background-repeat: no-repeat;
+  padding-bottom: 57px;
+  background-size: cover;
+}
+
+.stat-bottom-heading {
+  display: flex;
+  justify-content: center;
+  width: 540px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  letter-spacing: -1px;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FFFFFF;
+}
+.stat-button {
+  padding: 13px 40px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 197px;
+  height: 56px;
+  font-size: 20px;
+  line-height: 30px;
+  border-radius: 28px;
+
+}
+.form {
+background-image: url(../img/form-bg-img.svg);
+background-repeat: no-repeat;
+padding: 32px 64px;
+background-position: center center;
+border-radius: 10px;
+}
+.form-item {
+  padding: 14px 32px;
+  width: 770px;
+}
+.form-buttom {
+  margin-left: 24px;
+  padding: 17px 40px;
+}
